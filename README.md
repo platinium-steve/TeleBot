@@ -1,4 +1,4 @@
-# TeleBot
+# Telegram Bot Video Uploader
 
 Automated Telegram bot that periodically scans a local directory for video files and sends unsent ones to a Telegram group. Tracks sent videos in a PostgreSQL database to avoid duplicates, and reports execution health to Healthchecks.io.
 
